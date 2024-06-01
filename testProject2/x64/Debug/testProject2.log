@@ -1,0 +1,7 @@
+﻿  testProject2.cpp
+C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\testProject2\testProject2.cpp(39,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\testProject2\testProject2.cpp(56,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\testProject2\testProject2.cpp(73,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\testProject2\testProject2.cpp(97,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\testProject2\testProject2.cpp(108,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  testProject2.vcxproj -> C:\Users\My\OneDrive\Документы\конспекты\Системное программирование\testProject\x64\Debug\testProject2.exe
